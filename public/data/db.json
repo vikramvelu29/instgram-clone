@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "vikram_dev",
+      "profile_img": "/assest/img-1.jpeg",
+      "caption": "Just deployed my new project 🚀 #python #react",
+      "image_url": "/assest/post-1.jpeg",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "nidhi.photos",
+          "text": "Awesome project 🔥"
+        },
+        {
+          "user": "amy.codes",
+          "text": "Clean UI design!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "nidhi.photos",
+      "profile_img": "/assest/img-2.jpeg",
+      "caption": "Early morning street vibes 🌇",
+      "image_url": "/assest/post-2.jpeg",
+      "likes": 980,
+      "comments": [
+        {
+          "user": "vikram_dev",
+          "text": "Beautiful lighting!"
+        },
+        {
+          "user": "amy.codes",
+          "text": "Clean UI design!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "amy.codes",
+      "profile_img": "/assest/img-3.png",
+      "caption": "Redesigned the login page with TailwindCSS 💻",
+      "image_url": "/assest/post-3.jpeg",
+      "likes": 210,
+      "comments": [
+        {
+          "user": "vikram_dev",
+          "text": "Looks smooth 😎"
+        },
+        {
+          "user": "nidhi.photos",
+          "text": "Nice colors!"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": "1",
+    "username": "viki",
+    "profile_img": "/assest/img-1.jpeg",
+    "caption": "Just deployed my new project 🚀 #python #react",
+    "image_url": "/assest/post-1.jpeg"
+  },
+  "suggestion": [
+    {
+      "id": "1",
+      "username": "viki_dev",
+      "profile_img": "/assest/img-3.png"
+    },
+    {
+      "id": "2",
+      "username": "nidhi.photos",
+      "profile_img": "/assest/img-2.jpeg"
+    },
+    {
+      "id": "3",
+      "username": "amy.codes",
+      "profile_img": "/assest/img-3.png"
+    },
+    {
+      "id": "4",
+      "username": "amy",
+      "profile_img": "/assest/img-2.jpeg"
+    },
+    {
+      "id": "5",
+      "username": "codes",
+      "profile_img": "/assest/img-3.png"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "vikram_dev",
+      "profile_img": "/assest/img-1.jpeg",
+      "story_img": "/assest/download-1.jpeg"
+    },
+    {
+      "id": "2",
+      "username": "nidhi.photos",
+      "profile_img": "/assest/img-2.jpeg",
+      "story_img": "/assest/download-2.jpeg"
+    },
+    {
+      "id": "3",
+      "username": "amy.codes",
+      "profile_img": "/assest/img-3.png",
+      "story_img": "/assest/download-3.jpeg"
+    },
+    {
+      "id": "4",
+      "username": "amy",
+      "profile_img": "/assest/img-2.jpeg",
+      "story_img": "/assest/download-4.jpeg"
+    }
+  ],
+  "follows": [
+    {
+      "id": "2",
+      "username": "nidhi.photos"
+    },
+    {
+      "id": "1",
+      "username": "viki_dev"
+    }
+  ]
+}
